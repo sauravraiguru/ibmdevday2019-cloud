@@ -1,4 +1,4 @@
-# Cloud Workshop 20 June
+# Cloud Workshop 28th June
 
 
 ## 0. Register on IBM Cloud
@@ -12,10 +12,9 @@ After successful registration Login into your account.
 ## 1. Convert the IBM Cloud Lite account to Trial account
 
 You will be provided with PROMO Code. 
-Account -- Apply Promo Code
+Login to [IBM Cloud](https://cloud.ibm.com) -> Click on Manage -> Account -> Account Settings -> Subscription & Feature Code -> Apply 'Promo' Code
 
-For instructions on how to apply the codes, 
-review this page
+If still not able to find, for further instructions on how to apply the codes, view this page
 [IBM Cloud Sign up and PROMO Code](https://cloud.ibm.com/docs/account?topic=account-codes#codes)
 
 
